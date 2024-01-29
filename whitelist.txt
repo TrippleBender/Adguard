@@ -1,1 +1,5 @@
+@@|dartsearch.net^$important
+@@|googleadservices.com^$important
+@@|www.dartsearch.net^$important
 @@|www.googleadservices.com^$important
+@@|clickserve.dartsearch.net^$important
